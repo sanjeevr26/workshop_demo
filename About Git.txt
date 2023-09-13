@@ -1,3 +1,6 @@
 Distributed version control system
 
 Collaborate with multiple people
+
+# Williams change
+git add .
